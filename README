@@ -7,4 +7,7 @@ Refer to src/SerializedGraphADS.java and src/IdMaps.java for usage
 
 src - Contains files to parse ontology structure and compute enrichments
 
+geo.txt - Sample GEO experiments dataset with information only about genes and summaries
+list.txt - Sample gene list to test enrichment for
+
 ScriptE.py - Python wrapper for running code
